@@ -47,4 +47,3 @@ if latest_block is not None:
         print("To:", tx["to"])
         print("Value (in Wei):", tx["value"])
         print("\n")
-    

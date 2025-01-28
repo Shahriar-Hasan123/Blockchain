@@ -1,3 +1,4 @@
+"""Write a program in Python to implement a blockchain and UTXo (unspent transaction output)."""
 # Importing required libraries 
 import hashlib 
 
